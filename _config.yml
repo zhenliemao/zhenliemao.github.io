@@ -47,24 +47,24 @@ github: zhenliemao
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: licangluo@163.com
 
 authors:
-  johndoe:
+  Li Hao:
     name: Li Hao
     bio: stay foolish,stay hungry
     external-image: false
     picture: assets/images/profile.jpg
     twitter: arraycat
   jamesfoster:
-    name: Li Hao
+    name: Li yun jie
     bio: A Man who develops software with coffee
     external-image: false
     picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: liyunjie
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
